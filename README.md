@@ -7,11 +7,10 @@
 - 🤔 I’m looking for help with Nothing :D
 - 💬 Ask me about any thing
 - 📫 How to reach me: sagheerhzardari@gmail.com
-- 😄 Pronouns: I don't have any
-- ⚡ Fun fact: I am fun fact myself
 
 
-![sarwan's github stats](https://github-readme-stats.vercel.app/api?username=sagheerhussainzardari&hide_border=true&show_icons=true&bg_color=white&title_color=222831&icon_color=222831&text_color=0F9B8E)
+
+![Sagheer's github stats](https://github-readme-stats.vercel.app/api?username=sagheerhussainzardari&hide_border=true&show_icons=true&bg_color=white&title_color=222831&icon_color=222831&text_color=0F9B8E)
 <br/>
 ## Most Lanugages Used by Me
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sagheerhussainzardari&layout=compact&bg_color=white&title_color=222831&icon_color=222831&hide_border=true&text_color=0F9B8E" />
