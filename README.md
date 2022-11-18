@@ -2,9 +2,8 @@
 ## I'm a  Full Stack Web Developer!
 ## About Me
 - 🔭 I’m currently working on Online Talent Hiring Project
-- 🌱 I’m currently working on Laravel + Vue Js
+- 🌱 I’m currently working on Laravel + Vue Js and Node + Express
 - 👯 I’m looking to collaborate on any Web Development Project
-- 🤔 I’m looking for help with Nothing :D
 - 💬 Ask me about any thing
 - 📫 How to reach me: sagheerhzardari@gmail.com
 
